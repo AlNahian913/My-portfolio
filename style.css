@@ -1,0 +1,30 @@
+body{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+}
+.yellow{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.biriyani{
+    width: 50%;
+    padding-left: 3%;
+}
+.biriyani img{
+    width: 80%;
+}
+.dream{
+    background-image: url(Images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.exp{
+    background-image: url(Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
